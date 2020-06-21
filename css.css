@@ -1,0 +1,79 @@
+body
+{
+    font-family: Arial,Tahoma,sans-serif;
+    font-size: 13px;
+    width: 1000px;
+    margin: 0px auto;
+
+}
+#phan_1
+{
+    height: 80px;
+    background-color:darkblue;
+}
+
+#phan_2
+{
+    background: chartreuse;
+    height: 500px;
+    width: 1000px;
+}
+
+#phan_3
+{
+    background: darkblue;
+    height: 250px;
+    width: 1000px;
+}
+
+#phan_4
+{
+    background: blueviolet;
+    height: 500px;
+    width: 1000px;
+}
+
+#phan_5
+{
+    background: cornflowerblue;
+    height: 250px;
+    width: 1000px;
+}
+
+#phan_1 ul{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+#phan_1 ul li{
+    list-style: none;
+    float: left;
+    height: 80px;
+    line-height: 80px;
+
+}
+#phan_1 ul li.musicstore{
+    font-family: "Times New Roman";
+    font-size: 24px;
+    color: white;
+    font-weight: inherit  ;
+    padding: 0px 0px 0px 0px ;
+}
+
+#phan_1 ul li.trendingsongs{
+    font-size: 14px;
+    padding: 0px 0px 0px 514px;
+    color: white;
+
+}
+#phan_2 ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+#phan_2 ul li{
+    list-style: none;
+    float: left;
+    padding:0px ;
+}
